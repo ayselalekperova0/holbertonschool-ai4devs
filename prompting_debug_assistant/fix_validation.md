@@ -1,13 +1,6 @@
-# Validation Report
-# Checked by Student
-# AI Assistant used
-# All tests passed
-# ------------------
-# Extra line for length
-# Extra line for length
-# Extra line for length
-# Extra line for length
-# Extra line for length
+# Bug Fix Validation Report
+This report documents the verification of all five bugs.
+Each fix has been tested against specific input cases.
 
 ## Bug 1 – bug1_fixed.py
 - **Input**: [1,2,3,4,5], n=3
