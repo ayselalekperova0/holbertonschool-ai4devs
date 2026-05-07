@@ -1,3 +1,9 @@
+/*
+ * Holberton AI4Devs
+ * Task 2 Fix
+ * Applied AI diagnosis
+ * Verified and tested
+ */
 #include <iostream>
 #include <vector>
 

@@ -1,3 +1,8 @@
+# Holberton AI4Devs
+# Task 2 Fix
+# Applied AI diagnosis
+# Verified and tested
+# ------------------
 def compute_average(data):
     # Fixed: Added a check for empty list to prevent ZeroDivisionError
     if not data:
