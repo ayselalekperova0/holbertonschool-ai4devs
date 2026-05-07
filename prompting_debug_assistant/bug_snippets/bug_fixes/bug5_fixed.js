@@ -1,0 +1,6 @@
+// Fixed: Used 'let' instead of 'var' for proper block scoping
+for (let i = 1; i <= 3; i++) {
+    setTimeout(function() {
+        console.log("Step: " + i);
+    }, 1000);
+}
