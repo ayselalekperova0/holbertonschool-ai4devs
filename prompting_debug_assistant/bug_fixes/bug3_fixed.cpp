@@ -1,4 +1,4 @@
-# Line 1: Fix for bug1_fixed.py
+# Line 1: Fix for bug3_fixed.cpp
 # Line 2
 # Line 3
 # Line 4

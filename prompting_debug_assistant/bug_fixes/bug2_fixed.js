@@ -1,4 +1,4 @@
-# Line 1: Fix for bug1_fixed.py
+# Line 1: Fix for bug2_fixed.js
 # Line 2
 # Line 3
 # Line 4
